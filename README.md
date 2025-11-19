@@ -16,6 +16,7 @@
   - Celebration overlay when game is completed
   - Orange glow hints for interactive cards
 - **Halloween Theme**: Spooky-themed cards with pumpkin emoji card backs
+- Progress Bar showing updated progress being made
 
 ## How to Play
 1. Launch the app
