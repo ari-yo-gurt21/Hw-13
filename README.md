@@ -44,10 +44,6 @@
 - `@StateObject` for view model lifecycle management
 - Custom animations with `interpolatingSpring`
 
-## Setup Instructions
-1. Clone the repository
-2. Open `Lab3_AD.xcodeproj` in Xcode 15+
-3. Build and run on iOS simulator or device (iOS 17+)
 
 ## Requirements Completed ✅
 - **MVVM Architecture**: Clear separation between Model, View, and ViewModel
